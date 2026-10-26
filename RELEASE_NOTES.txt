@@ -1,0 +1,1 @@
+First release: Master, Main Out, Headphones and Input gain with mute and L/R link, sample rate, and one-click Mac output/input for Push 3's audio interface.
